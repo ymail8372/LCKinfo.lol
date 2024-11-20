@@ -409,6 +409,7 @@ class Command(BaseCommand):
 				"Akali": "아칼리",
 				"Akshan": "아크샨",
 				"Alistar": "알리스타",
+				"Ambessa":"암베사",
 				"Amumu": "아무무",
 				"Anivia": "애니비아",
 				"Annie": "애니",
